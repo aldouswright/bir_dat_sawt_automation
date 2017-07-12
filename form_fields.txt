@@ -25,5 +25,3 @@ income payment
 <uneditable> ewt rate
 <uneditable> tax_amount
 
-
-socially progressive.
