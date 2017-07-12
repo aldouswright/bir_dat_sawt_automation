@@ -1,0 +1,29 @@
+Profile form files:
+TIN
+Branch code
+RDO code
+classification
+reporting cycle
+fiscal month end
+company name
+last name
+first name
+middle name
+trade name
+substreet
+street
+barangay
+city/municipality
+province
+zip code
+atc
+ewt rate
+
+sawt/dat file form fields
+reporting month
+income payment
+<uneditable> ewt rate
+<uneditable> tax_amount
+
+
+socially progressive.
